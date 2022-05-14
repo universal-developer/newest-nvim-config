@@ -600,7 +600,7 @@ let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 "color one
 "color deus
 "color gruvbox
-colorscheme seoul256
+"colorscheme seoul256
 "let ayucolor="light"
 "color ayu
 "color xcodelighthc
@@ -608,7 +608,7 @@ colorscheme seoul256
 "set cursorcolumn
 
 
-"colorscheme base16-default-dark
+colorscheme base16-default-dark
 
 "colorscheme vim-monokai-tasty
 
