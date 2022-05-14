@@ -565,6 +565,7 @@ Plug 'ellisonleao/gruvbox.nvim'
 
 Plug 'mattn/emmet-vim'
 Plug 'junegunn/seoul256.vim'
+Plug 'rmehri01/onenord.nvim', { 'branch': 'main' }
 
 " do stuff like :sudowrite
 " Plug 'makerj/vim-pdf'
@@ -599,6 +600,7 @@ let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 "color dracula
 "color one
 color deus
+"colorscheme onenord
 "color gruvbox
 "colorscheme seoul256
 "let ayucolor="light"
