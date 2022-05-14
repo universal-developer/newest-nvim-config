@@ -598,7 +598,7 @@ let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 
 "color dracula
 "color one
-"color deus
+color deus
 "color gruvbox
 "colorscheme seoul256
 "let ayucolor="light"
@@ -608,7 +608,7 @@ let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 "set cursorcolumn
 
 
-colorscheme base16-default-dark
+"colorscheme base16-default-dark
 
 "colorscheme vim-monokai-tasty
 
